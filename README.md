@@ -1,1 +1,6 @@
 # SilaShiva-PowerBI-Report-on-ExtraaLearn
+The PowerBI report for ExtraaLearn's GitHub repository provides comprehensive insights into user engagement metrics, including commit frequency, pull request activity, and code contributions. This analysis enables the EdTech company to assess the level of collaboration among developers and identify key contributors, fostering a more effective and dynamic development environment.
+
+The report highlights key indicators of code quality and review trends within ExtraaLearn's GitHub repository. Metrics such as code churn, code review completion time, and identified bugs are presented, offering actionable insights for the development team to enhance code reliability and streamline the review process. This helps in maintaining a high standard of software quality and improving overall development efficiency.
+
+ExtraaLearn's PowerBI report provides a real-time overview of the release and deployment pipeline. It includes details on deployment frequency, success rates, and any potential bottlenecks in the release process. This information aids in optimizing release cycles, minimizing downtime, and ensuring a smooth deployment experience for end-users, contributing to a more reliable and agile software development lifecycle.
